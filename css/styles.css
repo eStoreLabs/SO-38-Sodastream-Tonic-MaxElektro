@@ -655,10 +655,14 @@
     font-size: 16px;
     max-width: 180px;
   }
+
+  #es-rc #es-rc-content .es-change__wrapper .es-change__single-title--third {
+    margin-bottom: 70px;
+  }
   #es-rc #es-rc-content .es-change__wrapper .es-change__single:nth-child(1) {
-    margin-right: -25px;
     position: relative;
     z-index: 1;
+    margin-right: -20px;
   }
   #es-rc #es-rc-content .es-change__wrapper .es-change__single:nth-child(2) {
     width: 30%;
